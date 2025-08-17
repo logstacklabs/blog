@@ -1,0 +1,9 @@
+msio:
+    name: 'Muhammed A. Senghore'
+    email: 'muhammedasm00@gmail.com'
+    avatar: 'images/avatar/anime-me-looks-better.png'
+    bio: 'Passionate about IT & Programming. Constantly learning and growing in the ever-evolving field of cybersecurity.'
+    links:
+        url: 'https://msio.me'
+        github: 'msio414'
+        linkedin: 'in/msio'

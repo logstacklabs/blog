@@ -1,0 +1,7 @@
+{
+    "name": "logstacklabs",
+    "scripts": {
+        "build": "hugo",
+        "postinstall": "cd themes/plumeo && npm install"
+    }
+}

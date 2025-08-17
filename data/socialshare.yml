@@ -1,0 +1,60 @@
+platforms:
+    - icon: bluesky
+      title: 'Share to BlueSky'
+      url: 'https://bsky.app/intent/compose?text={TITLE}%20{URL}'
+
+    - icon: facebook
+      title: 'Share to Facebook'
+      url: 'https://www.facebook.com/sharer/sharer.php?title={TITLE}&u={URL}'
+
+    - icon: linkedin
+      title: 'Share to LinkedIn'
+      url: 'https://www.linkedin.com/shareArticle?mini=true&url={URL}&title={TITLE}'
+
+    - icon: reddit
+      title: 'Share to Reddit'
+      url: 'https://www.reddit.com/submit?url={URL}&title={TITLE}'
+
+    - icon: x
+      title: 'Share to Twitter'
+      url: 'https://twitter.com/intent/tweet?url={URL}&text={TITLE}'
+
+#    - icon: threads
+#      title: 'Share to Threads'
+#      url: 'https://www.threads.net/intent/post?text={TITLE}%20{URL}'
+
+#    - icon: whatsapp
+#      title: 'Share on WhatsApp'
+#      url: 'https://api.whatsapp.com/send?text={TITLE}%20{URL}'
+
+#    - icon: telegram
+#      title: 'Share on Telegram'
+#      url: 'https://t.me/share/url?url={URL}&text={TITLE}'
+
+#    - icon: envelope
+#      title: 'Share to Email'
+#      url: 'mailto:?subject={TITLE}&body={TITLE}%0A{URL}'
+
+#    - icon: pinterest
+#      title: 'Share to Pinterest'
+#      url: 'https://pinterest.com/pin/create/button/?url={URL}&description={TITLE}'
+
+#    - icon: hacker-news
+#      title: 'Share to Hacker News'
+#      url: 'https://news.ycombinator.com/submitlink?u={URL}&t={TITLE}'
+
+#    - icon: flipboard
+#      title: 'Share on Flipboard'
+#      url: 'https://share.flipboard.com/bookmarklet/popout?v=2&title={TITLE}&url={URL}'
+
+#    - icon: tumblr
+#      title: 'Share on Tumblr'
+#      url: 'https://www.tumblr.com/widgets/share/tool?canonicalUrl={URL}&title={TITLE}'
+
+#    - icon: buffer
+#      title: 'Share to Buffer'
+#      url: 'https://buffer.com/add?url={URL}&text={TITLE}'
+
+#    - icon: weibo
+#      title: 'Share to Weibo'
+#      url: 'https://service.weibo.com/share/share.php?url={URL}&title={TITLE}'

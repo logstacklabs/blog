@@ -1,0 +1,97 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-US'
+title = 'Logstack Labs'
+theme = 'plumeo'
+
+[pagination]
+    pagerSize = 11
+    path = ''
+
+[permalinks]
+    #blog = '/:slug/'
+    hugo-themes = '/:slug/'
+    posts = '/:slug/'
+
+[params]
+    tagline = 'IT, Programming, & CyberSecurity'
+    description = 'A showcase of my skills & work, and a personal exploration of cybersecurity and tech'
+    keywords = [
+        'Cybersecurity', 'Networking', 'Basic Electronics', 'Coding',
+        'Linux', 'Git', 'Python', 'Basic C Programming', 'HTML, CSS & JS'
+    ]
+
+[menu]
+    [[menu.main]]
+        name = 'Home'
+        url = '/'
+        weight = 11
+        identifier = 'home'
+    [[menu.main]]
+        name = 'Contact'
+        url = '/contact/'
+        weight = 44
+        identifier = 'contact'
+    [[menu.main]]
+        name = 'Privacy Policy'
+        url = '/privacy/'
+        weight = 41
+        identifier = 'privacy'
+    [[menu.main]]
+        name = 'Hugo Theme Collection'
+        url = '/hugo-themes/'
+        weight = 14
+        identifier = 'hugo-themes'
+
+
+#####################################################
+##*************************************************##
+##*************************************************##
+##*                                               *##
+##*~~~~:    DO NOT EDIT BEYOND THIS POINT    :~~~~*##
+##*                                               *##
+##*************************************************##
+##*************************************************##
+#####################################################
+
+
+[outputs]
+    home = ['HTML', 'RSS']
+    page = ['HTML', 'RSS']
+    rss = ['RSS']
+    section = ['HTML', 'RSS']
+    taxonomy = ['HTML', 'RSS']
+    term = ['HTML', 'RSS']
+
+[mediaTypes]
+    [mediaTypes."application/json"]
+        suffixes = ["json"]
+
+[outputFormats.JSON]
+    mediaType = "application/json"
+    isPlainText = true
+
+[taxonomies]
+    tag = 'tags'
+    author = 'authors'
+    category = 'category'
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.parser]
+            wrapStandAloneImageWithinParagraph = false
+            [markup.goldmark.parser.attribute]
+                block = true
+
+
+[minify]
+    minifyOutput = false
+
+enableEmoji = true
+enableGitInfo = true
+enableRobotsTXT = true
+enableFingerprinting = true
+
+[module]
+    [module.hugoVersion]
+        extended = false
+        min = '0.148.0'

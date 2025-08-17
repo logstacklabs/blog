@@ -1,0 +1,3 @@
+[submodule "themes/plumeo"]
+	path = themes/plumeo
+	url = https://github.com/logstacklabs/plumeo.git

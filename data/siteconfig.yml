@@ -1,0 +1,66 @@
+branding:
+    theme: 'dark'
+    logo: 'images/brand/logo-icon-only.png'
+    favicon: 'images/brand/logo-icon-only.png'
+
+analytics:
+    goat_counter: 'msio'
+    google_analytics: 'G-CL14LX3KFN'
+
+seo:
+    fb_admins_id: ''
+    twitter_handle: ''
+    opengraph_image: 'images/brand/logo-icon-only.png'
+    twitter_card_image: 'images/brand/logo-icon-only.png'
+
+comments:
+    isActive: true
+    service_provider: 'giscus'
+    giscus:
+        repo: 'logstacklabs/blog'
+        repo_id: 'R_kgDOPeX7aQ'
+        category: 'General'
+        category_id: 'DIC_kwDOPeX7ac4CuNVr'
+        mapping: 'pathname'
+        strict: '0'
+        reactions: '1'
+        emit_meta: '1'
+        input_pos: 'top'
+        lang: 'en'
+        theme: 'dark_high_contrast'
+        loading: 'lazy'
+
+contact:
+    card_title: "Let's connect"
+    card_tagline: "I'm always interested in discussing opportunities, or collaborating on projects. Feel free to reach out!..."
+    form:
+        keys:
+          web3forms: '0846fa5b-59aa-4935-9c16-3aa0a9121f63'
+          recaptcha: ''
+        form_subjects:
+            - Web Development
+            - Technical Support
+            - Project Collaboration
+            - Other
+    card:
+        email: logstacklabs@gmail.com
+        phone: +90 (535) 044-7281
+        address: Somewhere In, Istanbul/Turkiye
+
+footer:
+    copyright_email: ''
+    copyright_holder: 'Muhammed A'
+    links:
+        - label: Blog
+          anchor: https://logstack.dev/blog
+        - label: Projects
+          anchor: https://github.com/logstacklabs
+        - label: Privacy Policy
+          anchor: https://logstack.dev/privacy
+    socials:
+        github: logstacklabs
+        youtube: '@logstacklabs'
+        linkedin: company/logstacklabs
+        npm: https://npmjs.com/~logstack
+        others:
+            blog: ''
