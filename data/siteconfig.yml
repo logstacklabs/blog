@@ -52,15 +52,15 @@ footer:
     copyright_holder: 'Muhammed A'
     links:
         - label: Blog
-          anchor: https://logstack.dev/blog
+          anchor: https://blog.logstack.dev/
         - label: Projects
           anchor: https://github.com/logstacklabs
         - label: Privacy Policy
-          anchor: https://logstack.dev/privacy
+          anchor: https://blog.logstack.dev/privacy
     socials:
         github: logstacklabs
         youtube: '@logstacklabs'
         linkedin: company/logstacklabs
         npm: https://npmjs.com/~logstack
         others:
-            blog: ''
+            rss: 'https://blog.logstack.dev/feed.xml'

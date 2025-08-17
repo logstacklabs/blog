@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://blog.logstack.dev/'
 languageCode = 'en-US'
 title = 'Logstack Labs'
 theme = 'plumeo'

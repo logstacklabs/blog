@@ -11,7 +11,7 @@ featured = true
 +++
 
 Plumeo is a clean, lightweight and responsive **Hugo theme** designed for writers, developers, and creators who want a **minimalist, and elegant blog**. It's lightweight, supports both dark & light mode, SEO friendly and responsive.
-For more detailed documentation, visit the [**GitHub**](https://github.com/logstacklabs/plumeo.git) repository. And to see the theme demo, visit [logstack.dev/blog](https://logstack.dev/blog).
+For more detailed documentation, visit the [**GitHub**](https://github.com/logstacklabs/plumeo.git) repository. And to see the theme demo, visit [blog.logstack.dev](https://blog.logstack.dev).
 
 ### ✨ Features
 * 📱 Responsive & mobile-friendly layouts.
@@ -299,7 +299,7 @@ platforms:
       title: 'Share to Weibo'
       url: 'https://service.weibo.com/share/share.php?url={URL}&title={TITLE}'
 ```
-#### SEE: [the blog](https://logstack.dev/blog/plumeo) for all the configurations:
+#### SEE: [the blog](https://blog.logstack.dev/plumeo-theme) for all the configurations:
 
 - To work on Plumeo locally:
 ```shell

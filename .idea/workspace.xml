@@ -4,11 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="edf49145-3eef-46b0-ad56-e831f60c4f17" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/plumeo" afterDir="false" />
+    <list default="true" id="edf49145-3eef-46b0-ad56-e831f60c4f17" name="Changes" comment=".dot files and default configuration files">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/polar-night.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/snow-storm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/hugo-themes/plumeo-theme.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/hugo-themes/plumeo-theme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/hugo-themes/uniport-theme.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/hugo-themes/uniport-theme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/siteconfig.yml" beforeDir="false" afterPath="$PROJECT_DIR$/data/siteconfig.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hugo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/hugo.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,46 +22,46 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "msio414"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;msio414&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/logstacklabs/blog.git",
-    "accountId": "5256a118-cecb-444e-8062-46506353542f"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/logstacklabs/blog.git&quot;,
+    &quot;accountId&quot;: &quot;5256a118-cecb-444e-8062-46506353542f&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="31PGnwBQdGhHgrdJZ6m7DH7dyeu" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "javascript.nodejs.core.library.configured.version": "24.5.0",
-    "javascript.nodejs.core.library.typings.version": "24.2.0",
-    "last_opened_file_path": "/home/msio/MEGA/DEV/PR0J3CTS/W3BZ/blog/content/hugo-theme-collection",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_interpreter_path": "/home/msio/.nvm/versions/node/v24.5.0/bin/node",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;24.5.0&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;24.2.0&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/msio/MEGA/DEV/PR0J3CTS/W3BZ/blog/content/hugo-theme-collection&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;/home/msio/.nvm/versions/node/v24.5.0/bin/node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/content/hugo-theme-collection" />
@@ -84,11 +88,43 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1755418470444</updated>
-      <workItem from="1755418470453" duration="21876000" />
+      <workItem from="1755418470453" duration="22587000" />
+      <workItem from="1755443806465" duration="613000" />
     </task>
+    <task id="LOCAL-00001" summary="image assets">
+      <option name="closed" value="true" />
+      <created>1755442686097</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1755442686097</updated>
+    </task>
+    <task id="LOCAL-00002" summary="content files">
+      <option name="closed" value="true" />
+      <created>1755442741120</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1755442741120</updated>
+    </task>
+    <task id="LOCAL-00003" summary=".dot files and default configuration files">
+      <option name="closed" value="true" />
+      <created>1755442783597</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1755442783597</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="image assets" />
+    <MESSAGE value="content files" />
+    <MESSAGE value=".dot files and default configuration files" />
+    <option name="LAST_COMMIT_MESSAGE" value=".dot files and default configuration files" />
   </component>
 </project>

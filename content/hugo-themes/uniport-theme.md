@@ -3,7 +3,7 @@ date = '2025-08-14T22:53:58+03:00'
 title = 'Uniport Theme Configuration'
 tags = ['Hugo', 'Web development']
 authors = ['msio']
-thumbnail = 'https://blog.msio.me/assets/resources/uniport-hugo-theme/thumbnail.webp'
+thumbnail = 'images/thumbnail/uniport.webp'
 category = 'Hugo Themes'
 excerpt = "Uniport-H is a clean, responsive, one-paged, and lightweight customizable portfolio theme built for Hugo. The theme is easy to customize, It also comes as a GitHub template so it's easy to install & use. The design is partly inspired by Brian Yu's Website"
 draft = false
@@ -97,8 +97,8 @@ theme = 'uniport-h'
     Instagram = 'your_handle'
     [params.socials.others]
     # This section is for icons that are not available under `fa-brands` category.
-        Code = 'img/brand.png'
-        blog = 'img/brand.png'
+        Code = ''
+        blog = ''
 
 [params.footer]
 # Name to show in the copyright message
