@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="edf49145-3eef-46b0-ad56-e831f60c4f17" name="Changes" comment=".dot files and default configuration files">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="edf49145-3eef-46b0-ad56-e831f60c4f17" name="Changes" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/polar-night.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/snow-storm.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/hugo-themes/plumeo-theme.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/hugo-themes/plumeo-theme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/hugo-themes/uniport-theme.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/hugo-themes/uniport-theme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/siteconfig.yml" beforeDir="false" afterPath="$PROJECT_DIR$/data/siteconfig.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hugo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/hugo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/plumeo" beforeDir="false" afterPath="$PROJECT_DIR$/themes/plumeo" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,14 +45,14 @@
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;24.5.0&quot;,
-    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;24.2.0&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/msio/MEGA/DEV/PR0J3CTS/W3BZ/blog/content/hugo-theme-collection&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;18.19.0&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;18.19.123&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/msio/MEGA/DEV/PR0J3CTS/W3BZ/blog&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_interpreter_path&quot;: &quot;/home/msio/.nvm/versions/node/v24.5.0/bin/node&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
@@ -89,7 +85,10 @@
       <option name="presentableId" value="Default" />
       <updated>1755418470444</updated>
       <workItem from="1755418470453" duration="22587000" />
-      <workItem from="1755443806465" duration="613000" />
+      <workItem from="1755443806465" duration="841000" />
+      <workItem from="1755445726796" duration="104000" />
+      <workItem from="1755539725798" duration="67000" />
+      <workItem from="1755940993836" duration="348000" />
     </task>
     <task id="LOCAL-00001" summary="image assets">
       <option name="closed" value="true" />
@@ -115,7 +114,23 @@
       <option name="project" value="LOCAL" />
       <updated>1755442783597</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update">
+      <option name="closed" value="true" />
+      <created>1755444438679</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1755444438679</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update">
+      <option name="closed" value="true" />
+      <created>1755444550583</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1755444550583</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +140,7 @@
     <MESSAGE value="image assets" />
     <MESSAGE value="content files" />
     <MESSAGE value=".dot files and default configuration files" />
-    <option name="LAST_COMMIT_MESSAGE" value=".dot files and default configuration files" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>
