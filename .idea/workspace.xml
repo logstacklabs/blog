@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="edf49145-3eef-46b0-ad56-e831f60c4f17" name="Changes" comment="Theme &amp; social links update">
-      <change beforePath="$PROJECT_DIR$/data/siteconfig.yml" beforeDir="false" afterPath="$PROJECT_DIR$/data/siteconfig.yml" afterDir="false" />
-    </list>
+    <list default="true" id="edf49145-3eef-46b0-ad56-e831f60c4f17" name="Changes" comment="social links update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +83,7 @@
       <workItem from="1755443806465" duration="841000" />
       <workItem from="1755445726796" duration="104000" />
       <workItem from="1755539725798" duration="67000" />
-      <workItem from="1755940993836" duration="1131000" />
+      <workItem from="1755940993836" duration="1177000" />
     </task>
     <task id="LOCAL-00001" summary="image assets">
       <option name="closed" value="true" />
@@ -135,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755941370046</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="social links update">
+      <option name="closed" value="true" />
+      <created>1755942159178</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1755942159178</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +153,7 @@
     <MESSAGE value=".dot files and default configuration files" />
     <MESSAGE value="update" />
     <MESSAGE value="Theme &amp; social links update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Theme &amp; social links update" />
+    <MESSAGE value="social links update" />
+    <option name="LAST_COMMIT_MESSAGE" value="social links update" />
   </component>
 </project>

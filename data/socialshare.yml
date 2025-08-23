@@ -1,3 +1,9 @@
+max_icon_count: 7
+
+buttons:
+    show_copy_button: true
+    show_print_button: true
+
 platforms:
     - icon: bluesky
       title: 'Share to BlueSky'
