@@ -9,7 +9,7 @@ analytics:
 
 seo:
     fb_admins_id: ''
-    twitter_handle: ''
+    twitter_handle: 'logstacklabs'
     opengraph_image: 'images/brand/logo-icon-only.png'
     twitter_card_image: 'images/brand/logo-icon-only.png'
 
