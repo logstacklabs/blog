@@ -4,8 +4,8 @@ branding:
     favicon: 'images/brand/logo-icon-only.png'
 
 analytics:
-    goat_counter: 'msio'
-    google_analytics: 'G-CL14LX3KFN'
+    goat_counter: 'logstack'
+    google_analytics: 'G-LQTLC70PD9'
 
 seo:
     fb_admins_id: ''

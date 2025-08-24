@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="edf49145-3eef-46b0-ad56-e831f60c4f17" name="Changes" comment="social links update" />
+    <list default="true" id="edf49145-3eef-46b0-ad56-e831f60c4f17" name="Changes" comment="social links update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/siteconfig.yml" beforeDir="false" afterPath="$PROJECT_DIR$/data/siteconfig.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hugo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/hugo.toml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,6 +88,8 @@
       <workItem from="1755445726796" duration="104000" />
       <workItem from="1755539725798" duration="67000" />
       <workItem from="1755940993836" duration="1177000" />
+      <workItem from="1755942573822" duration="102000" />
+      <workItem from="1756042996836" duration="530000" />
     </task>
     <task id="LOCAL-00001" summary="image assets">
       <option name="closed" value="true" />
@@ -141,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755942159178</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="social links update">
+      <option name="closed" value="true" />
+      <created>1755942659359</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1755942659359</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

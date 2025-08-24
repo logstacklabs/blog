@@ -84,7 +84,7 @@ theme = 'plumeo'
 
 
 [minify]
-    minifyOutput = false
+    minifyOutput = true
 
 enableEmoji = true
 enableGitInfo = true
